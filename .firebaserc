@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "login-auth-894af": {
+      "hosting": {
+        "firebase-auth": [
+          "login-auth-894af"
+        ]
+      }
+    }
+  }
+}
